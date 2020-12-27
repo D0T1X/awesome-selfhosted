@@ -34,7 +34,7 @@ See [Contributing](.github/CONTRIBUTING.md).
   - [Conference Management](#conference-management)
   - [Content Management Systems (CMS)](#content-management-systems-cms)
     - [E-commerce](#e-commerce)
-    - [Recipe management](#Recipe management)
+    - [Recipe management](#Recipe-management)
   - [DNS](#dns)
   - [Document Management](#document-management)
   - [E-books and Integrated Library Systems (ILS)](#e-books-and-integrated-library-systems-ils)
